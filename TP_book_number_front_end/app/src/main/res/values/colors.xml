@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D32F2F</color> <!-- Red -->
+    <color name="colorPrimaryDark">#B71C1C</color> <!-- Darker Red -->
+    <color name="colorAccent">#FF5252</color> <!-- Accent Red -->
+    <color name="blackBackground">#121212</color> <!-- Dark Theme Background -->
+    <color name="whiteText">#FFFFFF</color>
+    <color name="redAccent">#D32F2F</color>
+    <color name="darkCard">#1C1C1C</color>
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B0B0B0</color>
+
+</resources>
